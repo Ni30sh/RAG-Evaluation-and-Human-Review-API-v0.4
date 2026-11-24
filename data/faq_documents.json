@@ -1,0 +1,52 @@
+[
+  {
+    "id": "service_faq_01",
+    "title": "Service intervals",
+    "text": "The recommended service interval is every 10,000 kilometres or every 12 months, whichever comes first."
+  },
+  {
+    "id": "service_faq_02",
+    "title": "Warranty",
+    "text": "The standard vehicle warranty lasts 3 years or 100,000 kilometres, whichever comes first."
+  },
+  {
+    "id": "service_faq_03",
+    "title": "Roadside assistance",
+    "text": "Roadside assistance is available 24 hours a day, 7 days a week, while the vehicle is under warranty."
+  },
+  {
+    "id": "service_faq_04",
+    "title": "Booking a service",
+    "text": "A service can be booked online through the customer portal or by calling the service centre."
+  },
+  {
+    "id": "service_faq_05",
+    "title": "Oil changes",
+    "text": "Engine oil and the oil filter should be replaced at every scheduled maintenance service."
+  },
+  {
+    "id": "service_faq_06",
+    "title": "Brake inspection",
+    "text": "Brake pads, brake discs, and brake fluid are inspected during the annual safety check."
+  },
+  {
+    "id": "service_faq_07",
+    "title": "Tyre pressure",
+    "text": "The recommended tyre pressure is listed on the label inside the driver's door frame."
+  },
+  {
+    "id": "service_faq_08",
+    "title": "Cancellation policy",
+    "text": "Service appointments can be cancelled or rescheduled free of charge up to 24 hours before the booking."
+  },
+  {
+    "id": "service_faq_09",
+    "title": "Loan vehicles",
+    "text": "A loan vehicle may be available with advance notice, subject to local branch availability."
+  },
+  {
+    "id": "service_faq_10",
+    "title": "Payment methods",
+    "text": "The service centre accepts major credit cards, debit cards, and approved fleet accounts."
+  }
+]

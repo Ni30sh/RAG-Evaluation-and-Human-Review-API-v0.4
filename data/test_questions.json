@@ -1,0 +1,12 @@
+[
+  {"question": "What is the service interval?", "expected_source_id": "service_faq_01"},
+  {"question": "How long does the vehicle warranty last?", "expected_source_id": "service_faq_02"},
+  {"question": "Is roadside assistance available all day?", "expected_source_id": "service_faq_03"},
+  {"question": "How can I book a service?", "expected_source_id": "service_faq_04"},
+  {"question": "How often should engine oil be changed?", "expected_source_id": "service_faq_05"},
+  {"question": "What brakes components are checked?", "expected_source_id": "service_faq_06"},
+  {"question": "Where can I find the correct tyre pressure?", "expected_source_id": "service_faq_07"},
+  {"question": "Can I cancel or reschedule a service appointment?", "expected_source_id": "service_faq_08"},
+  {"question": "Can I get a loan vehicle during service?", "expected_source_id": "service_faq_09"},
+  {"question": "Which payment methods does the service centre accept?", "expected_source_id": "service_faq_10"}
+]
